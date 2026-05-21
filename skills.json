@@ -96,5 +96,159 @@
       "IC vs management",
       "promo packet"
     ]
+  },
+  {
+    "name": "first-week-snapshot",
+    "path": "plugins/effective-manager/skills/first-week-snapshot",
+    "description": "Structure the first weeks as a new manager: triangulate your view, your manager's view, and the team's view; build the action list.",
+    "primary_triggers": [
+      "first week",
+      "new manager",
+      "just promoted",
+      "inherited a team",
+      "took over the team",
+      "where do I begin",
+      "newly promoted"
+    ]
+  },
+  {
+    "name": "manager-toolkit",
+    "path": "plugins/effective-manager/skills/manager-toolkit",
+    "description": "Self-organization for managers: calendar, to-do list, email, capture; Grove's four activity categories and the output equation.",
+    "primary_triggers": [
+      "drowning in email",
+      "inbox zero",
+      "to-do list",
+      "calendar is a mess",
+      "context switching",
+      "overwhelmed",
+      "where does my time go"
+    ]
+  },
+  {
+    "name": "one-to-ones-stanier",
+    "path": "plugins/effective-manager/skills/one-to-ones-stanier",
+    "description": "Stanier-style 1-1s: contracting with new reports, rolling agendas, the 70% rule, silence, Andon Cord, and you are not a therapist.",
+    "primary_triggers": [
+      "1-1",
+      "1:1",
+      "one-on-one",
+      "contracting",
+      "first 1-1",
+      "rolling agenda",
+      "feels like a status meeting"
+    ]
+  },
+  {
+    "name": "motivation-and-fit",
+    "path": "plugins/effective-manager/skills/motivation-and-fit",
+    "description": "Match work to person: Maslow at work, zone of proximal development, skill trees, cathedral-vs-bazaar motivation profiles.",
+    "primary_triggers": [
+      "motivation",
+      "they seem bored",
+      "they're disengaged",
+      "stretch project",
+      "good fit",
+      "wrong fit",
+      "they want a challenge"
+    ]
+  },
+  {
+    "name": "performance-reviews-stanier",
+    "path": "plugins/effective-manager/skills/performance-reviews-stanier",
+    "description": "Run performance reviews on a 6-month cadence: tracker spreadsheet, peer feedback email, written-first form, decoupling pay from review.",
+    "primary_triggers": [
+      "performance review",
+      "perf review",
+      "review season",
+      "peer feedback",
+      "360 review",
+      "self review",
+      "pay raise"
+    ]
+  },
+  {
+    "name": "hiring-stanier",
+    "path": "plugins/effective-manager/skills/hiring-stanier",
+    "description": "Hire well: who-to-hire mindset, JD template, gender-neutral writing, 6-stage funnel, interview do's/don'ts, take-home rules.",
+    "primary_triggers": [
+      "hiring",
+      "job description",
+      "JD",
+      "interview funnel",
+      "phone screen",
+      "take-home test",
+      "rejection letter"
+    ]
+  },
+  {
+    "name": "stress-and-pressure",
+    "path": "plugins/effective-manager/skills/stress-and-pressure",
+    "description": "Handle pressure: Eye of Sauron, MoSCoW prioritization, scope/resources/time levers, Brooks's Law, Mount Stupid, imposter syndrome.",
+    "primary_triggers": [
+      "deadline",
+      "under pressure",
+      "fire drill",
+      "what should we cut",
+      "MoSCoW",
+      "Brooks's law",
+      "imposter syndrome"
+    ]
+  },
+  {
+    "name": "information-and-politics",
+    "path": "plugins/effective-manager/skills/information-and-politics",
+    "description": "Navigate sensitive information and politics: spies vs. gatekeepers, three categories of information, leave-nobody-behind, disagree and commit.",
+    "primary_triggers": [
+      "should I tell the team",
+      "confidential",
+      "workplace politics",
+      "disagree and commit",
+      "level-jumping",
+      "reorg",
+      "layoffs coming"
+    ]
+  },
+  {
+    "name": "letting-go-and-self-care",
+    "path": "plugins/effective-manager/skills/letting-go-and-self-care",
+    "description": "Sustain the role: Stoic trichotomy of control, internal vs external goals, L-mode/R-mode, 85% capacity rule, sleep, movement, mindful breathing.",
+    "primary_triggers": [
+      "can't switch off",
+      "checking email at night",
+      "burned out",
+      "letting go",
+      "85% capacity",
+      "compulsive checking",
+      "trichotomy of control"
+    ]
+  },
+  {
+    "name": "team-housekeeping",
+    "path": "plugins/effective-manager/skills/team-housekeeping",
+    "description": "Run the team's operating practices: Conway's Law, guilds, lightning talks, five whys, management bugs, ADRs, team health checks, DRIs.",
+    "primary_triggers": [
+      "silos",
+      "Conway's Law",
+      "guild",
+      "five whys",
+      "ADR",
+      "team health check",
+      "DRI"
+    ]
+  },
+  {
+    "name": "career-vision-exercise",
+    "path": "plugins/effective-manager/skills/career-vision-exercise",
+    "description": "Deliver the 10-year career exercise: past/future timeline, vision statement, plan statement, skills backlog — as a sequence of coaching sessions.",
+    "primary_triggers": [
+      "career vision",
+      "10-year plan",
+      "long-term career",
+      "ikigai",
+      "skills backlog",
+      "career coaching",
+      "vision exercise"
+    ]
   }
 ]
