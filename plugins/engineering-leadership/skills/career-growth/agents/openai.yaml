@@ -1,0 +1,7 @@
+interface:
+  display_name: "Career Growth"
+  short_description: "Promotions, growth plans, ladders, and IC-vs-manager decisions"
+  icon_small: "./assets/kubicum.png"
+  icon_large: "./assets/kubicum.png"
+  brand_color: "#2563EB"
+  default_prompt: "Use $career-growth to build a growth plan for this engineer."

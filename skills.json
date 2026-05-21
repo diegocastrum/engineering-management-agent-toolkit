@@ -1,0 +1,100 @@
+[
+  {
+    "name": "one-on-ones",
+    "path": "plugins/engineering-leadership/skills/one-on-ones",
+    "description": "Run 1-1s that surface real signal: prep agendas, capture follow-ups, diagnose when 1-1s feel off, and onboard new reporting relationships.",
+    "primary_triggers": [
+      "1-1",
+      "1:1",
+      "one-on-one",
+      "weekly check-in",
+      "prep my 1-1",
+      "1-1 notes",
+      "new direct report"
+    ]
+  },
+  {
+    "name": "feedback-and-reviews",
+    "path": "plugins/engineering-leadership/skills/feedback-and-reviews",
+    "description": "Give feedback in the moment and write performance reviews with no surprises, including 360s, self-reviews, and calibration.",
+    "primary_triggers": [
+      "performance review",
+      "perf review",
+      "giving feedback",
+      "self-review",
+      "peer review",
+      "calibration",
+      "no-surprises rule"
+    ]
+  },
+  {
+    "name": "project-breakdown",
+    "path": "plugins/engineering-leadership/skills/project-breakdown",
+    "description": "Plan multi-week engineering projects: break down deliverables, estimate timelines, run premortems, and decide what to cut as deadlines approach.",
+    "primary_triggers": [
+      "project plan",
+      "break this down",
+      "estimate this project",
+      "deadline",
+      "scope cut",
+      "milestone",
+      "premortem"
+    ]
+  },
+  {
+    "name": "team-health-debugger",
+    "path": "plugins/engineering-leadership/skills/team-health-debugger",
+    "description": "Diagnose a team that feels off: shipping problems, low energy, drama, conflict, attrition, or inherited teams you do not yet understand.",
+    "primary_triggers": [
+      "team not shipping",
+      "low energy",
+      "people drama",
+      "attrition",
+      "team morale",
+      "brilliant jerk",
+      "inherited team"
+    ]
+  },
+  {
+    "name": "hard-conversations",
+    "path": "plugins/engineering-leadership/skills/hard-conversations",
+    "description": "Prepare for and deliver difficult conversations: PIPs, coaching out, declining leadership asks, addressing toxic behavior, bad news at scale.",
+    "primary_triggers": [
+      "PIP",
+      "performance improvement plan",
+      "coach out",
+      "deliver bad news",
+      "tough conversation",
+      "say no upward",
+      "behavior correction"
+    ]
+  },
+  {
+    "name": "hiring-and-interviewing",
+    "path": "plugins/engineering-leadership/skills/hiring-and-interviewing",
+    "description": "Hire engineers and managers: write JDs, design and calibrate loops, debrief, check references, and evaluate culture fit.",
+    "primary_triggers": [
+      "hiring",
+      "interview loop",
+      "JD",
+      "job description",
+      "debrief",
+      "reference check",
+      "hire / no-hire"
+    ]
+  },
+  {
+    "name": "career-growth",
+    "path": "plugins/engineering-leadership/skills/career-growth",
+    "description": "Career development for self and reports: promotions, growth plans, ladder design, stretch projects, IC vs management decisions.",
+    "primary_triggers": [
+      "career ladder",
+      "promotion",
+      "growth plan",
+      "ready for the next level",
+      "stretch project",
+      "IC vs management",
+      "promo packet"
+    ]
+  }
+]

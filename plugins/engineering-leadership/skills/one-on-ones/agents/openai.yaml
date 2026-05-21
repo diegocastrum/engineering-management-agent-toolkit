@@ -1,0 +1,7 @@
+interface:
+  display_name: "One-on-Ones"
+  short_description: "Run 1-1s that surface real signal, not status reports"
+  icon_small: "./assets/kubicum.png"
+  icon_large: "./assets/kubicum.png"
+  brand_color: "#2563EB"
+  default_prompt: "Use $one-on-ones to prep my 1-1 with this report."

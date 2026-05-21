@@ -1,0 +1,28 @@
+{
+  "name": "engineering-leadership-agent-toolkit",
+  "description": "Engineering Leadership Agent Toolkit: skills and plugins for engineering team leads, derived from Camille Fournier's The Manager's Path.",
+  "owner": {
+    "name": "Diego Castro",
+    "email": "diego.castro@kubicum.com"
+  },
+  "plugins": [
+    {
+      "name": "engineering-leadership",
+      "source": "./plugins/engineering-leadership",
+      "description": "Skills for one-on-ones, feedback and reviews, project breakdown, team health, hard conversations, hiring, and career growth.",
+      "category": "Productivity",
+      "tags": [
+        "engineering-leadership",
+        "team-lead",
+        "management",
+        "one-on-ones",
+        "feedback",
+        "performance-reviews",
+        "hiring",
+        "career-growth",
+        "project-planning",
+        "team-health"
+      ]
+    }
+  ]
+}

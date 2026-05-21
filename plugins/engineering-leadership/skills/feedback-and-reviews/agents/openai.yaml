@@ -1,0 +1,7 @@
+interface:
+  display_name: "Feedback and Reviews"
+  short_description: "Give feedback and write reviews with no surprises"
+  icon_small: "./assets/kubicum.png"
+  icon_large: "./assets/kubicum.png"
+  brand_color: "#2563EB"
+  default_prompt: "Use $feedback-and-reviews to plan how to give this piece of feedback."

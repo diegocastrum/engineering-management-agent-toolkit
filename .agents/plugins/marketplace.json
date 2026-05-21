@@ -1,0 +1,20 @@
+{
+  "name": "engineering-leadership-agent-toolkit",
+  "interface": {
+    "displayName": "Kubicum: Engineering Leadership Agent Toolkit"
+  },
+  "plugins": [
+    {
+      "name": "engineering-leadership",
+      "source": {
+        "source": "local",
+        "path": "./plugins/engineering-leadership"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

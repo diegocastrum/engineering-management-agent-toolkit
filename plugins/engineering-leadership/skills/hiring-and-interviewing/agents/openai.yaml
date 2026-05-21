@@ -1,0 +1,7 @@
+interface:
+  display_name: "Hiring and Interviewing"
+  short_description: "Design loops, write JDs, debrief, and calibrate hire decisions"
+  icon_small: "./assets/kubicum.png"
+  icon_large: "./assets/kubicum.png"
+  brand_color: "#2563EB"
+  default_prompt: "Use $hiring-and-interviewing to design an interview loop for this role."
