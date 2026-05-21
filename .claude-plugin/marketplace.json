@@ -1,6 +1,6 @@
 {
   "name": "engineering-leadership-agent-toolkit",
-  "description": "Engineering Leadership Agent Toolkit: skills and plugins for engineering team leads, derived from Camille Fournier's The Manager's Path.",
+  "description": "Engineering Leadership Agent Toolkit: skills and plugins for engineering team leads, derived from Camille Fournier's The Manager's Path and James Stanier's Become an Effective Software Engineering Manager.",
   "owner": {
     "name": "Diego Castro",
     "email": "diego.castro@kubicum.com"
@@ -22,6 +22,27 @@
         "career-growth",
         "project-planning",
         "team-health"
+      ]
+    },
+    {
+      "name": "effective-manager",
+      "source": "./plugins/effective-manager",
+      "description": "Tactical, day-to-day engineering-management skills: first-week snapshot, manager toolkit, 1-1s, performance reviews, hiring, motivation, stress and pressure, information and politics, self-care, team housekeeping, and the career vision exercise.",
+      "category": "Productivity",
+      "tags": [
+        "engineering-management",
+        "new-manager",
+        "manager-toolkit",
+        "one-on-ones",
+        "performance-reviews",
+        "hiring",
+        "motivation",
+        "stress",
+        "politics",
+        "self-care",
+        "team-health",
+        "career-planning",
+        "stanier"
       ]
     }
   ]
