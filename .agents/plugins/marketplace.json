@@ -1,26 +1,14 @@
 {
-  "name": "engineering-leadership-agent-toolkit",
+  "name": "engineering-management-agent-toolkit",
   "interface": {
-    "displayName": "Kubicum: Engineering Leadership Agent Toolkit"
+    "displayName": "Kubicum: Engineering Management Agent Toolkit"
   },
   "plugins": [
     {
-      "name": "engineering-leadership",
+      "name": "engineering-management",
       "source": {
         "source": "local",
-        "path": "./plugins/engineering-leadership"
-      },
-      "policy": {
-        "installation": "AVAILABLE",
-        "authentication": "ON_INSTALL"
-      },
-      "category": "Productivity"
-    },
-    {
-      "name": "effective-manager",
-      "source": {
-        "source": "local",
-        "path": "./plugins/effective-manager"
+        "path": "./plugins/engineering-management"
       },
       "policy": {
         "installation": "AVAILABLE",

@@ -30,18 +30,37 @@ Should not be the primary skill:
 - "Help me prep my 1-1 with Sarah tomorrow."
 - "We have a launch next week and we're behind. What do I cut?"
 
-## `one-to-ones-stanier`
+## `one-on-ones`
 
 Should trigger:
 
 - "I have my first 1-1 with a new direct report tomorrow. Help me run a contracting session."
+- "I have a 1-1 with Sarah tomorrow, she's been quiet in standups for two weeks. Help me prep."
 - "My 1-1s have turned into status meetings. How do I reset them?"
 - "Here are my notes from today's 1-1 — help me extract actions."
 - "They keep cancelling 1-1s. How do I get the cadence back?"
+- "I just got a new direct report — what should the first month of 1-1s look like?"
 
 Should not be the primary skill:
 
 - "Write the performance review for Sarah."
+- "Should we put Sarah on a PIP?"
+
+## `feedback-and-reviews`
+
+Should trigger:
+
+- "I need to write Sarah's performance review and I'm worried it will surprise her."
+- "How do I give this piece of critical feedback without it landing as an attack?"
+- "Review season is coming up. Help me set up the tracker."
+- "Draft a peer feedback request email for Sarah's review."
+- "We're heading into calibration — how do I prep?"
+- "We're coupling pay to reviews this cycle and I think it's a bad idea."
+- "I've stayed quiet about this for a month. Should I bring it up now?"
+
+Should not be the primary skill:
+
+- "Help me prep my 1-1 with Sarah tomorrow."
 - "Should we put Sarah on a PIP?"
 
 ## `motivation-and-fit`
@@ -58,33 +77,68 @@ Should not be the primary skill:
 - "Help me write Sarah's perf review."
 - "I think someone is about to quit."
 
-## `performance-reviews-stanier`
-
-Should trigger:
-
-- "Review season is coming up. Help me set up the tracker."
-- "Draft a peer feedback request email for Sarah's review."
-- "I need to write Sarah's review — here's the form. Help me fill it out."
-- "We're coupling pay to reviews this cycle and I think it's a bad idea."
-
-Should not be the primary skill:
-
-- "Help me prep my 1-1 with Sarah tomorrow."
-- "Design the interview loop for a senior backend engineer."
-
-## `hiring-stanier`
+## `hiring-and-interviewing`
 
 Should trigger:
 
 - "Help me write a job description for a senior backend engineer."
-- "Design the interview funnel for this role — what stages and what they cover."
+- "Design an interview loop for a staff backend engineer."
+- "Help me write the JD for an engineering manager role."
 - "Audit this JD for gendered language."
 - "We're about to give a take-home — what are the rules?"
+- "We just debriefed this candidate and the loop is split. How do I drive a decision?"
+- "Calibrate me on this resume — is this person worth a phone screen?"
 
 Should not be the primary skill:
 
 - "Help me build a growth plan for an existing engineer."
 - "Write the performance review for Sarah."
+
+## `project-breakdown`
+
+Should trigger:
+
+- "Break down the auth refactor into milestones we can ship in Q3."
+- "Leadership wants an estimate for the migration by Friday."
+- "We're three weeks from launch and we're behind. What should we cut?"
+- "Run a premortem with me for the data pipeline rewrite."
+
+Should not be the primary skill:
+
+- "Why isn't this team shipping anything?"
+- "Help me write the JD for a senior backend role."
+
+## `team-health`
+
+Should trigger:
+
+- "My team isn't shipping and I can't figure out why."
+- "The team feels low-energy in standups but no one will say what's wrong."
+- "One senior engineer keeps railroading design reviews. Others are going quiet."
+- "I just inherited this team and something feels off."
+- "We had an incident last week. Help me run a five whys."
+- "How do I start a guild for the backend engineers across teams?"
+- "We need to start writing ADRs — how do I introduce it?"
+- "Run a team health check with me — what dimensions should we score?"
+
+Should not be the primary skill:
+
+- "Help me write Sarah's perf review."
+- "I need to tell this engineer they're not getting promoted."
+
+## `hard-conversations`
+
+Should trigger:
+
+- "I need to tell Sarah she's not getting promoted this cycle."
+- "Leadership wants us to take on this project and I think we should say no."
+- "I think we need to coach this engineer out. How do I have that conversation?"
+- "I'm dreading this 1-1 — they're going to be upset."
+
+Should not be the primary skill:
+
+- "How do I run a healthy 1-1?"
+- "Break down this multi-week project into deliverables."
 
 ## `stress-and-pressure`
 
@@ -128,24 +182,14 @@ Should not be the primary skill:
 - "Help me design the interview loop."
 - "Help me write a review."
 
-## `team-housekeeping`
+## `career-growth`
 
 Should trigger:
 
-- "We had an incident last week. Help me run a five whys."
-- "How do I start a guild for the backend engineers across teams?"
-- "We need to start writing ADRs — how do I introduce it?"
-- "Run a team health check with me — what dimensions should we score?"
-
-Should not be the primary skill:
-
-- "I need to give a piece of corrective feedback to one engineer."
-- "Help me prep my 1-1 with Sarah."
-
-## `career-vision-exercise`
-
-Should trigger:
-
+- "Is Sarah ready for the next level? How do I evaluate that?"
+- "Help me build a growth plan for an engineer who wants to be a tech lead."
+- "We need to design a career ladder for our engineering org."
+- "One of my engineers wants to move from IC to management. How do I think about that?"
 - "Sarah is a senior engineer and we want to talk about her 10-year arc, not just the next promo."
 - "Help me deliver the career vision exercise as a series of coaching sessions to my report."
 - "I want to do this exercise for myself — where am I going next?"
@@ -153,5 +197,5 @@ Should trigger:
 
 Should not be the primary skill:
 
-- "Sarah's promo packet — help me write it."
-- "We need to plan this quarter's deliverables."
+- "How do I tell Sarah she's not getting promoted this cycle?"
+- "How do I structure a performance review?"

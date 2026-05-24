@@ -1,48 +1,36 @@
 {
-  "name": "engineering-leadership-agent-toolkit",
-  "description": "Engineering Leadership Agent Toolkit: skills and plugins for engineering team leads, derived from Camille Fournier's The Manager's Path and James Stanier's Become an Effective Software Engineering Manager.",
+  "name": "engineering-management-agent-toolkit",
+  "description": "Engineering Management Agent Toolkit: skills and plugins for engineering managers and team leads, derived from James Stanier's Become an Effective Software Engineering Manager and Camille Fournier's The Manager's Path.",
   "owner": {
     "name": "Diego Castro",
     "email": "diego.castro@kubicum.com"
   },
   "plugins": [
     {
-      "name": "engineering-leadership",
-      "source": "./plugins/engineering-leadership",
-      "description": "Skills for one-on-ones, feedback and reviews, project breakdown, team health, hard conversations, hiring, and career growth.",
+      "name": "engineering-management",
+      "source": "./plugins/engineering-management",
+      "description": "Skills for engineering managers and team leads — tactical day-to-day mechanics (first-week snapshot, manager toolkit, 1-1s, feedback and reviews, hiring, motivation, stress and pressure, information and politics, self-care, team health, career growth) plus longer-arc work (project breakdown, hard conversations, the annual career vision exercise).",
       "category": "Productivity",
       "tags": [
+        "engineering-management",
         "engineering-leadership",
         "team-lead",
-        "management",
+        "new-manager",
+        "manager-toolkit",
         "one-on-ones",
         "feedback",
         "performance-reviews",
         "hiring",
+        "interviewing",
         "career-growth",
         "project-planning",
-        "team-health"
-      ]
-    },
-    {
-      "name": "effective-manager",
-      "source": "./plugins/effective-manager",
-      "description": "Tactical, day-to-day engineering-management skills: first-week snapshot, manager toolkit, 1-1s, performance reviews, hiring, motivation, stress and pressure, information and politics, self-care, team housekeeping, and the career vision exercise.",
-      "category": "Productivity",
-      "tags": [
-        "engineering-management",
-        "new-manager",
-        "manager-toolkit",
-        "one-on-ones",
-        "performance-reviews",
-        "hiring",
+        "team-health",
+        "hard-conversations",
         "motivation",
         "stress",
         "politics",
         "self-care",
-        "team-health",
-        "career-planning",
-        "stanier"
+        "career-planning"
       ]
     }
   ]
