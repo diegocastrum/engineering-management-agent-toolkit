@@ -1,0 +1,7 @@
+interface:
+  display_name: "Agreements, Not Expectations"
+  short_description: "Replace unspoken expectations with explicit, mutual, voluntary agreements"
+  icon_small: "./assets/kubicum.png"
+  icon_large: "./assets/kubicum.png"
+  brand_color: "#2563EB"
+  default_prompt: "Use $agreements-not-expectations to turn this unspoken expectation into a clear agreement."

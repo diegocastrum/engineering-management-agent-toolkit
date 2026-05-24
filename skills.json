@@ -202,5 +202,25 @@
       "ikigai",
       "vision exercise"
     ]
+  },
+  {
+    "name": "agreements-not-expectations",
+    "path": "plugins/engineering-management/skills/agreements-not-expectations",
+    "description": "Turn unspoken expectations into explicit, mutual, voluntary agreements: the five principles, the out-of-agreement script (name → take responsibility → recommit or renegotiate), entry conditions, and the systems-beat-willpower rule.",
+    "primary_triggers": [
+      "they didn't follow through",
+      "I thought we agreed",
+      "no one owns it",
+      "they should have known",
+      "I keep repeating myself",
+      "vague commitment",
+      "deadline slipped",
+      "out of agreement",
+      "broken agreement",
+      "renegotiate",
+      "100/100 responsibility",
+      "be your word",
+      "integrity"
+    ]
   }
 ]
