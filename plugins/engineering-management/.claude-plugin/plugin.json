@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "engineering-management",
+  "version": "0.1.0",
+  "description": "Skills for engineering managers and team leads — covering the tactical day-to-day mechanics (first-week snapshot, manager toolkit, 1-1s, feedback and reviews, hiring, motivation, stress and pressure, information and politics, self-care, team health, career growth) plus the longer-arc work (project breakdown, hard conversations, the annual career vision exercise). Derived from James Stanier's Become an Effective Software Engineering Manager and Camille Fournier's The Manager's Path.",
+  "author": {
+    "name": "Diego Castro",
+    "email": "diego.castro@kubicum.com",
+    "url": "https://kubicum.com"
+  },
+  "homepage": "https://kubicum.com",
+  "repository": "https://github.com/diegocastrum/engineering-management-agent-toolkit",
+  "keywords": [
+    "skills",
+    "engineering-management",
+    "engineering-leadership",
+    "team-lead",
+    "new-manager",
+    "manager-toolkit",
+    "one-on-ones",
+    "feedback",
+    "performance-reviews",
+    "hiring",
+    "interviewing",
+    "career-growth",
+    "promotion",
+    "project-planning",
+    "team-health",
+    "hard-conversations",
+    "motivation",
+    "stress",
+    "pressure",
+    "politics",
+    "self-care",
+    "career-planning",
+    "stanier",
+    "managers-path"
+  ]
+}

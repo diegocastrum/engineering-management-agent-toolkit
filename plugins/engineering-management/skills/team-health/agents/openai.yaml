@@ -1,0 +1,7 @@
+interface:
+  display_name: "Team Health"
+  short_description: "Install healthy practices, and debug a team that feels off"
+  icon_small: "./assets/kubicum.png"
+  icon_large: "./assets/kubicum.png"
+  brand_color: "#2563EB"
+  default_prompt: "Use $team-health to diagnose what is going wrong with my team, or to install a healthy practice."

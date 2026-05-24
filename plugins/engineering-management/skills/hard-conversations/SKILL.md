@@ -128,7 +128,7 @@ When a report asks for something you have to decline:
 
 ## Behavior correction
 
-The brilliant jerk, the noncommunicator, the employee who lacks respect — see the team-health-debugger skill for diagnosis. For the conversation itself:
+The brilliant jerk, the noncommunicator, the employee who lacks respect — see the `team-health` skill for diagnosis. For the conversation itself:
 
 ```
 Open: state the issue with specific examples.

@@ -142,7 +142,7 @@ When deciding who works on what:
 
 When a report wants to grow:
 
-1. Get the long-term aspiration (10 years out is fine — see career-vision-exercise skill if user wants to do this formally).
+1. Get the long-term aspiration (10 years out is fine — see the `career-growth` skill's *Annual vision exercise* section if user wants to do this formally).
 2. Translate to a 2-year aspiration. What level / role / scope?
 3. Decompose into skill tree of ZPD-sized steps.
 4. Pick the next 1-3 steps to focus on this quarter.
