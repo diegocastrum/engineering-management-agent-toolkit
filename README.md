@@ -2,7 +2,7 @@
 
 Organization toolkit for reusable agent capabilities focused on engineering management and team leadership.
 
-This repository collects Claude Code and Codex plugins, skills, and supporting metadata that can be shared across projects. Skills are derived from two complementary sources: James Stanier's *Become an Effective Software Engineering Manager* (tactical — what to do Monday morning) and Camille Fournier's *The Manager's Path* (strategic — career arcs and management progression). The two books overlap on several topics (1-1s, hiring, reviews, team health, career growth); their treatments have been synthesized into single skills so you load one skill per topic rather than two.
+This repository collects Claude Code and Codex plugins, skills, and supporting metadata that can be shared across projects. Skills are derived from complementary sources: James Stanier's *Become an Effective Software Engineering Manager* (tactical — what to do Monday morning), Camille Fournier's *The Manager's Path* (strategic — career arcs and management progression), and selected pieces from Niels Horeman's *Leadership Essentials* series (cross-cutting disciplines such as agreements vs. expectations). Where multiple sources cover the same topic, their treatments have been synthesized into single skills so you load one skill per topic rather than several.
 
 ## Layout
 
@@ -31,6 +31,7 @@ plugins/
       information-and-politics/
       letting-go-and-self-care/
       career-growth/
+      agreements-not-expectations/
     skill-examples.md
 skills.json
 README.md
@@ -40,7 +41,7 @@ README.md
 
 | Plugin | Purpose |
 | --- | --- |
-| `engineering-management` | Skills for engineering managers and team leads — tactical day-to-day mechanics and longer-arc work. Derived from Stanier's *Become an Effective Software Engineering Manager* and Fournier's *The Manager's Path*. |
+| `engineering-management` | Skills for engineering managers and team leads — tactical day-to-day mechanics, longer-arc work, and cross-cutting disciplines. Derived from Stanier's *Become an Effective Software Engineering Manager*, Fournier's *The Manager's Path*, and Horeman's *Leadership Essentials* series. |
 
 ## Skills Catalog
 
@@ -61,6 +62,7 @@ README.md
 | `information-and-politics` | Spies vs gatekeepers, three categories of information, leave-nobody-behind, disagree and commit |
 | `letting-go-and-self-care` | Stoic trichotomy of control, internal vs external goals, L-mode/R-mode, 85% capacity, sleep, movement, breathing |
 | `career-growth` | Promotions, growth plans, ladder design, IC vs management decisions, plus the once-a-year vision exercise (10-year past/future timeline, vision and plan statements, skills backlog) |
+| `agreements-not-expectations` | Turning unspoken expectations into explicit, mutual, voluntary agreements: the five principles, the out-of-agreement script, entry conditions, and the systems-beat-willpower rule |
 
 Each skill loads itself when the agent detects the relevant context in your conversation — you don't have to invoke them by name.
 
@@ -215,9 +217,10 @@ Edit the `SKILL.md` files directly, reload the agent, and you're done. No build 
 
 ## Sources
 
-The skills are grounded in two books, often within a single skill:
+The skills are grounded in a few sources, often within a single skill:
 
 - *Become an Effective Software Engineering Manager: How to Be the Leader Your Development Team Needs* by James Stanier (Pragmatic Bookshelf, 2020) — which in turn draws on Andy Grove's *High Output Management*, Maslow, Vygotsky, Raymond's *The Cathedral and the Bazaar*, Scott's *Radical Candor*, the Spotify engineering blog (squads/tribes/chapters/guilds), Apple (DRIs), Stoic philosophy (Epictetus, Irvine), Kabat-Zinn (mindfulness), Hunt's *Pragmatic Thinking and Learning* (L-mode/R-mode), Walker's *Why We Sleep*, Brooks's *The Mythical Man-Month*, and Csíkszentmihályi (flow).
 - *The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change* by Camille Fournier (O'Reilly, 2017).
+- *Leadership Essentials* series by Niels Horeman, including *From Assumptions to Agreements* and the companion *Playbook — Creating and Honoring Agreements*.
 
 Section references and inline attributions are in the body of each skill so you can cross-check against the source when you want to.

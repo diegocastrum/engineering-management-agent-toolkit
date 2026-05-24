@@ -1,7 +1,7 @@
 {
   "name": "engineering-management",
   "version": "0.1.0",
-  "description": "Codex skills for engineering managers and team leads — covering the tactical day-to-day mechanics (first-week snapshot, manager toolkit, 1-1s, feedback and reviews, hiring, motivation, stress and pressure, information and politics, self-care, team health, career growth) plus the longer-arc work (project breakdown, hard conversations, the annual career vision exercise). Derived from James Stanier's Become an Effective Software Engineering Manager and Camille Fournier's The Manager's Path.",
+  "description": "Codex skills for engineering managers and team leads — covering the tactical day-to-day mechanics (first-week snapshot, manager toolkit, 1-1s, feedback and reviews, hiring, motivation, stress and pressure, information and politics, self-care, team health, career growth) plus the longer-arc and cross-cutting work (project breakdown, hard conversations, the annual career vision exercise, and turning unspoken expectations into explicit agreements). Derived from James Stanier's Become an Effective Software Engineering Manager, Camille Fournier's The Manager's Path, and Niels Horeman's Leadership Essentials series.",
   "author": {
     "name": "Diego Castro",
     "email": "diego.castro@kubicum.com",
@@ -35,13 +35,20 @@
     "self-care",
     "career-planning",
     "stanier",
-    "managers-path"
+    "managers-path",
+    "agreements",
+    "expectations",
+    "accountability",
+    "integrity",
+    "commitments",
+    "horeman",
+    "leadership-essentials"
   ],
   "skills": "./skills/",
   "interface": {
     "displayName": "Engineering Management",
-    "shortDescription": "Skills for managing engineers: 1-1s, feedback, hiring, project planning, team health, hard conversations, career growth, and self-organization.",
-    "longDescription": "A Codex plugin that bundles reusable skills for the daily and longer-arc work of engineering management: the first-week snapshot for new managers, the manager toolkit (calendar, to-do, email, capture), 1-1s with contracting and rolling agendas, giving feedback and writing performance reviews with no surprises, hiring engineers and managers (loop design, JDs, take-homes, debriefs, references, calibration), motivation and fit, project breakdown and estimation, team health (Conway's Law, guilds, ADRs, five whys, health checks, DRIs — plus diagnosing dysfunctional teams), hard conversations (PIPs, coaching out, saying no upward), stress and pressure handling, information sharing and politics, self-care, and career growth including the 10-year vision exercise. Skills are grounded in James Stanier's Become an Effective Software Engineering Manager and Camille Fournier's The Manager's Path.",
+    "shortDescription": "Skills for managing engineers: 1-1s, feedback, hiring, project planning, team health, hard conversations, career growth, agreements, and self-organization.",
+    "longDescription": "A Codex plugin that bundles reusable skills for the daily and longer-arc work of engineering management: the first-week snapshot for new managers, the manager toolkit (calendar, to-do, email, capture), 1-1s with contracting and rolling agendas, giving feedback and writing performance reviews with no surprises, hiring engineers and managers (loop design, JDs, take-homes, debriefs, references, calibration), motivation and fit, project breakdown and estimation, team health (Conway's Law, guilds, ADRs, five whys, health checks, DRIs — plus diagnosing dysfunctional teams), hard conversations (PIPs, coaching out, saying no upward), stress and pressure handling, information sharing and politics, self-care, career growth including the 10-year vision exercise, and turning unspoken expectations into explicit, mutual, voluntary agreements. Skills are grounded in James Stanier's Become an Effective Software Engineering Manager, Camille Fournier's The Manager's Path, and Niels Horeman's Leadership Essentials series.",
     "developerName": "Diego Castro",
     "category": "Productivity",
     "capabilities": [
@@ -73,7 +80,9 @@
       "Use letting-go-and-self-care to help me stop thinking about work in the evening.",
       "Use career-growth to build a growth plan for this engineer.",
       "Use career-growth to evaluate whether this engineer is ready for the next level.",
-      "Use career-growth to deliver a 10-year career conversation to this senior engineer."
+      "Use career-growth to deliver a 10-year career conversation to this senior engineer.",
+      "Use agreements-not-expectations to turn this unspoken expectation into a clear agreement.",
+      "Use agreements-not-expectations to draft the out-of-agreement conversation after this missed deadline."
     ],
     "brandColor": "#2563EB",
     "composerIcon": "./assets/kubicum.png",

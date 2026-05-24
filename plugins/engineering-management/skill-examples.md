@@ -199,3 +199,20 @@ Should not be the primary skill:
 
 - "How do I tell Sarah she's not getting promoted this cycle?"
 - "How do I structure a performance review?"
+
+## `agreements-not-expectations`
+
+Should trigger:
+
+- "Sarah said she'd deliver Monday and didn't, and I'm furious. How do I bring it up?"
+- "I keep having to repeat myself with this engineer — what am I doing wrong?"
+- "We have a new working relationship with the design team and it's already getting messy. How do we set it up cleanly?"
+- "Leadership group keeps starting late and people are on phones. How do I name that without it landing as scolding?"
+- "I assumed they'd loop me in on this decision — they didn't. Was I wrong to assume?"
+- "We agreed on this last quarter but no one remembers the details. What do we do?"
+
+Should not be the primary skill:
+
+- "Help me draft this performance review."
+- "I need to tell this engineer they're not getting promoted."
+- "Design the interview loop for a staff engineer."
